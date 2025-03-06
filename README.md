@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nguyentienTCU/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0860-design-circular-queue](https://github.com/nguyentienTCU/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0978-valid-mountain-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
