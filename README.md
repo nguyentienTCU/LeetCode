@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nguyentienTCU/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/nguyentienTCU/LeetCode/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nguyentienTCU/LeetCode/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nguyentienTCU/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
