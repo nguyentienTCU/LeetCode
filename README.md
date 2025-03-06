@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/nguyentienTCU/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nguyentienTCU/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/nguyentienTCU/LeetCode/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
