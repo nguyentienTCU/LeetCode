@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nguyentienTCU/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nguyentienTCU/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nguyentienTCU/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nguyentienTCU/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nguyentienTCU/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nguyentienTCU/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nguyentienTCU/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
