@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nguyentienTCU/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/nguyentienTCU/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nguyentienTCU/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nguyentienTCU/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/nguyentienTCU/LeetCode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
