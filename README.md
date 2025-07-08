@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nguyentienTCU/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nguyentienTCU/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nguyentienTCU/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/nguyentienTCU/LeetCode/tree/master/0724-find-pivot-index) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nguyentienTCU/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nguyentienTCU/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/nguyentienTCU/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/nguyentienTCU/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentienTCU/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nguyentienTCU/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/nguyentienTCU/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
