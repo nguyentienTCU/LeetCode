@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nguyentienTCU/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/nguyentienTCU/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nguyentienTCU/LeetCode/tree/master/0066-plus-one) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nguyentienTCU/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentienTCU/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nguyentienTCU/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/nguyentienTCU/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nguyentienTCU/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/nguyentienTCU/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentienTCU/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nguyentienTCU/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nguyentienTCU/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/nguyentienTCU/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nguyentienTCU/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nguyentienTCU/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nguyentienTCU/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nguyentienTCU/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/nguyentienTCU/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nguyentienTCU/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0088-merge-sorted-array) |
