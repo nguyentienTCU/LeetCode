@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nguyentienTCU/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nguyentienTCU/LeetCode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nguyentienTCU/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/nguyentienTCU/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nguyentienTCU/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nguyentienTCU/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nguyentienTCU/LeetCode/tree/master/0066-plus-one) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/nguyentienTCU/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nguyentienTCU/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Linked List
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nguyentienTCU/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nguyentienTCU/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nguyentienTCU/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/nguyentienTCU/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/nguyentienTCU/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nguyentienTCU/LeetCode/tree/master/0739-daily-temperatures) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
