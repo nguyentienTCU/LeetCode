@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nguyentienTCU/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/nguyentienTCU/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nguyentienTCU/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nguyentienTCU/LeetCode/tree/master/0078-subsets) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nguyentienTCU/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/nguyentienTCU/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/nguyentienTCU/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
