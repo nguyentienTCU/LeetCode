@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nguyentienTCU/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/nguyentienTCU/LeetCode/tree/master/0860-design-circular-queue) |
+| [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
@@ -259,8 +260,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
