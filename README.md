@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nguyentienTCU/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/nguyentienTCU/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/nguyentienTCU/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nguyentienTCU/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0056-merge-intervals) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nguyentienTCU/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/nguyentienTCU/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nguyentienTCU/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nguyentienTCU/LeetCode/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nguyentienTCU/LeetCode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/nguyentienTCU/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0777-toeplitz-matrix) |
