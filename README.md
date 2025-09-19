@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nguyentienTCU/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/nguyentienTCU/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nguyentienTCU/LeetCode/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nguyentienTCU/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -254,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/nguyentienTCU/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
