@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nguyentienTCU/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nguyentienTCU/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nguyentienTCU/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -305,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nguyentienTCU/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nguyentienTCU/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
