@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/nguyentienTCU/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/nguyentienTCU/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nguyentienTCU/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1848-sum-of-unique-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/nguyentienTCU/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nguyentienTCU/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1848-sum-of-unique-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nguyentienTCU/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nguyentienTCU/LeetCode/tree/master/0383-ransom-note) |
 | [0959-3sum-with-multiplicity](https://github.com/nguyentienTCU/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nguyentienTCU/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1848-sum-of-unique-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Dynamic Programming
 |  |
