@@ -246,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/nguyentienTCU/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/nguyentienTCU/LeetCode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/nguyentienTCU/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nguyentienTCU/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nguyentienTCU/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/nguyentienTCU/LeetCode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/nguyentienTCU/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nguyentienTCU/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Prefix Sum
 |  |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nguyentienTCU/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nguyentienTCU/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/nguyentienTCU/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
