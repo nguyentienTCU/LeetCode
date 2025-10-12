@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/nguyentienTCU/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nguyentienTCU/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1985-maximum-subarray-min-product](https://github.com/nguyentienTCU/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/nguyentienTCU/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nguyentienTCU/LeetCode/tree/master/0739-daily-temperatures) |
+| [1985-maximum-subarray-min-product](https://github.com/nguyentienTCU/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 ## Recursion
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nguyentienTCU/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nguyentienTCU/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nguyentienTCU/LeetCode/tree/master/0724-find-pivot-index) |
+| [1985-maximum-subarray-min-product](https://github.com/nguyentienTCU/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 ## Memoization
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nguyentienTCU/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nguyentienTCU/LeetCode/tree/master/0739-daily-temperatures) |
+| [1985-maximum-subarray-min-product](https://github.com/nguyentienTCU/LeetCode/tree/master/1985-maximum-subarray-min-product) |
 ## Randomized
 |  |
 | ------- |
