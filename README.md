@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nguyentienTCU/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nguyentienTCU/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nguyentienTCU/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nguyentienTCU/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nguyentienTCU/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nguyentienTCU/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/nguyentienTCU/LeetCode/tree/master/1013-fibonacci-number) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nguyentienTCU/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nguyentienTCU/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nguyentienTCU/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nguyentienTCU/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0227-basic-calculator-ii) |
