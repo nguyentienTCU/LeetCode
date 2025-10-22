@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nguyentienTCU/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nguyentienTCU/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/nguyentienTCU/LeetCode/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0792-binary-search) |
 ## Design
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/nguyentienTCU/LeetCode/tree/master/0473-matchsticks-to-square) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nguyentienTCU/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
