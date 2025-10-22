@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0454-4sum-ii) |
+| [0473-matchsticks-to-square](https://github.com/nguyentienTCU/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/nguyentienTCU/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nguyentienTCU/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/nguyentienTCU/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nguyentienTCU/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/nguyentienTCU/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/nguyentienTCU/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/nguyentienTCU/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
@@ -328,11 +330,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/nguyentienTCU/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nguyentienTCU/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/nguyentienTCU/LeetCode/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nguyentienTCU/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/nguyentienTCU/LeetCode/tree/master/0473-matchsticks-to-square) |
 ## Matrix
 |  |
 | ------- |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nguyentienTCU/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/nguyentienTCU/LeetCode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
