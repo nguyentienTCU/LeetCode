@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/nguyentienTCU/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/nguyentienTCU/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nguyentienTCU/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nguyentienTCU/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1848-sum-of-unique-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nguyentienTCU/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1985-maximum-subarray-min-product](https://github.com/nguyentienTCU/LeetCode/tree/master/1985-maximum-subarray-min-product) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/nguyentienTCU/LeetCode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0792-binary-search) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nguyentienTCU/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nguyentienTCU/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
