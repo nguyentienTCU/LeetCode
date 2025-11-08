@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nguyentienTCU/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
+| [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nguyentienTCU/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/nguyentienTCU/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/nguyentienTCU/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0959-3sum-with-multiplicity](https://github.com/nguyentienTCU/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
 | [1168-duplicate-zeros](https://github.com/nguyentienTCU/LeetCode/tree/master/1168-duplicate-zeros) |
 ## String
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/nguyentienTCU/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nguyentienTCU/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
+| [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
 | [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nguyentienTCU/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
+| [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nguyentienTCU/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Monotonic Stack
