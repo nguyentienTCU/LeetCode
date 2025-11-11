@@ -19,11 +19,11 @@ class Solution {
         String ans = "";
         for(int i=s.length(); i>=1; i--){
             if(buckets[i]!=null){
-            for(char c : buckets[i]){
-                String d = c+"";
-                ans+=d.repeat(i);
+                for(char c : buckets[i]){
+                    String d = c+"";
+                    ans+=d.repeat(i);
+                }
             }
-        }
         }
         return ans;
     }
