@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nguyentienTCU/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/nguyentienTCU/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nguyentienTCU/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nguyentienTCU/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nguyentienTCU/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nguyentienTCU/LeetCode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nguyentienTCU/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0344-reverse-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nguyentienTCU/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
