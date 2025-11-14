@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/nguyentienTCU/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nguyentienTCU/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/nguyentienTCU/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/nguyentienTCU/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nguyentienTCU/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/nguyentienTCU/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/nguyentienTCU/LeetCode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nguyentienTCU/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nguyentienTCU/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -458,4 +463,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
