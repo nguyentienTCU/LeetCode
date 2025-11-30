@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/nguyentienTCU/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nguyentienTCU/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nguyentienTCU/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/nguyentienTCU/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nguyentienTCU/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/nguyentienTCU/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/nguyentienTCU/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -494,10 +497,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nguyentienTCU/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nguyentienTCU/LeetCode/tree/master/0133-clone-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
