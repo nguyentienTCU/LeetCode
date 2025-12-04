@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nguyentienTCU/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/nguyentienTCU/LeetCode/tree/master/0739-daily-temperatures) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/nguyentienTCU/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0959-3sum-with-multiplicity](https://github.com/nguyentienTCU/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0991-array-of-doubled-pairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0991-array-of-doubled-pairs) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nguyentienTCU/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nguyentienTCU/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/nguyentienTCU/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nguyentienTCU/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sorting
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nguyentienTCU/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/nguyentienTCU/LeetCode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nguyentienTCU/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0948-sort-an-array) |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nguyentienTCU/LeetCode/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/nguyentienTCU/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nguyentienTCU/LeetCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nguyentienTCU/LeetCode/tree/master/0994-rotting-oranges) |
 ## Graph
@@ -514,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 ## Topological Sort
 |  |
 | ------- |
