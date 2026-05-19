@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nguyentienTCU/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nguyentienTCU/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/nguyentienTCU/LeetCode/tree/master/0383-ransom-note) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nguyentienTCU/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/nguyentienTCU/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/nguyentienTCU/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nguyentienTCU/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0394-decode-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nguyentienTCU/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nguyentienTCU/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nguyentienTCU/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nguyentienTCU/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nguyentienTCU/LeetCode/tree/master/0435-non-overlapping-intervals) |
