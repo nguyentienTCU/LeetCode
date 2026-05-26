@@ -8,15 +8,18 @@ class Node:
 """
 
 class Solution:
+    def __init__(self):
+        self.map = {}
+
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        map = collections.defaultdict(lambda: Node(0))
-        map[None] = None
+        if not head:
+            return None
 
-        cur = head
-        while cur:
-            map[cur].val = cur.val
-            map[cur].next = map[cur.next]
-            map[cur].random = map[cur.random]
-            cur = cur.next
+        if head in self.map:
+            return self.map[head]
 
-        return map[head]
+        copy = Node(head.val)
+        self.map[head] = copy
+        copy.next = self.copyRandomList(head.next)
+        copy.random = self.map.get(head.random)
+        return copy
