@@ -5,10 +5,13 @@ class Solution:
         if len(nums) == 1:
             return nums[0]
         n = len(nums)
-        dp = [0] * n
-        dp[0] = nums[0]
-        dp[1] = max(nums[0], nums[1])
+
+        prevMax = nums[0]
+        curMax = max(nums[1], nums[0])
+                
         for i in range(2, n):
-            dp[i] = max(dp[i-2] + nums[i], dp[i-1])
+            tmp = curMax
+            curMax = max(curMax, prevMax + nums[i])
+            prevMax = tmp
         
-        return dp[n-1]
+        return curMax
