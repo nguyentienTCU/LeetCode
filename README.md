@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/nguyentienTCU/LeetCode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/nguyentienTCU/LeetCode/tree/master/0860-design-circular-queue) |
+| [0875-koko-eating-bananas](https://github.com/nguyentienTCU/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/nguyentienTCU/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0948-sort-an-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/nguyentienTCU/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nguyentienTCU/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nguyentienTCU/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Design
