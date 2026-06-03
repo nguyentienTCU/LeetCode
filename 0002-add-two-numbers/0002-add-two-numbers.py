@@ -10,16 +10,18 @@ class Solution:
         cur = dummy
 
         while l1 or l2 or carry > 0:
-            firstVal = l1.val if l1 != None else 0
-            secondVal = l2.val if l2 != None else 0
-            sum = firstVal + secondVal + carry
-            cur.next = ListNode(sum%10)
+            val1 = l1.val if l1 else 0
+            val2 = l2.val if l2 else 0
+            sum = val1 + val2 + carry
+            val = sum % 10
+            carry = sum // 10
+            cur.next = ListNode(val)
 
             cur = cur.next
-            carry = sum //10
-            if l1 != None:
+            if l1:
                 l1 = l1.next
-            if l2 != None:
+            if l2:
                 l2 = l2.next
 
         return dummy.next
+        
