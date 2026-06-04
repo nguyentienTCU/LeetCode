@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nguyentienTCU/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nguyentienTCU/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/nguyentienTCU/LeetCode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/nguyentienTCU/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nguyentienTCU/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nguyentienTCU/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/nguyentienTCU/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nguyentienTCU/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0567-permutation-in-string) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nguyentienTCU/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/nguyentienTCU/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nguyentienTCU/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/nguyentienTCU/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nguyentienTCU/LeetCode/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nguyentienTCU/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
