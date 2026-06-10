@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nguyentienTCU/LeetCode/tree/master/0994-rotting-oranges) |
 | [1009-pancake-sorting](https://github.com/nguyentienTCU/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/nguyentienTCU/LeetCode/tree/master/1046-last-stone-weight) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/nguyentienTCU/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/nguyentienTCU/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/nguyentienTCU/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nguyentienTCU/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/nguyentienTCU/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/nguyentienTCU/LeetCode/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
