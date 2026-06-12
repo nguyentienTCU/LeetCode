@@ -9,12 +9,12 @@ class Solution:
         if n == 2:
             return min(cost[0], cost[1])
 
-        firstPrev = 0
-        secondPrev = 0
+        cur = 0
+        prev = 0
 
         for i in range(2, n+1):
-            cur = min(firstPrev + cost[i-1], secondPrev + cost[i-2])
-            secondPrev = firstPrev
-            firstPrev = cur
+            tmp = cur
+            cur = min(cur + cost[i-1], prev + cost[i-2])
+            prev = tmp
 
         return cur
