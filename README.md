@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nguyentienTCU/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/nguyentienTCU/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nguyentienTCU/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0792-binary-search) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/nguyentienTCU/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/nguyentienTCU/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/nguyentienTCU/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nguyentienTCU/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
