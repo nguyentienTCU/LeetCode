@@ -1,16 +1,26 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        # dp[i][j] will store True if s[i->j] is palindrome, False otherwise
-        # dp[i][j] = dp[i+1 -> j-1] and s[i] == s[j]
-        resIdx = 0
-        resLen = 0
         n = len(s)
-        dp = [[False]*n for _ in range(n)]
-        for i in range(n-1, -1, -1):
-            for j in range(i,n):
-                if s[i] == s[j] and (j - i + 1 <= 3 or dp[i+1][j-1]):
-                    dp[i][j] = True
-                    if resLen < j - i + 1:
-                        resIdx = i
-                        resLen = j - i + 1
+        resLen = 0
+        resIdx = 0
+        for i in range(n):
+            # the center has 1 char
+            left = i
+            right = i
+            while left >= 0 and right < n and s[left] == s[right]:
+                if (right - left + 1) > resLen:
+                    resIdx = left
+                    resLen = right - left + 1
+                left -= 1
+                right += 1
+
+            # the center has 2 chars
+            left = i
+            right = i+1
+            while left >= 0 and right < n and s[left] == s[right]:
+                if (right - left + 1) > resLen:
+                    resIdx = left
+                    resLen = right - left + 1
+                left -= 1
+                right += 1
         return s[resIdx : resIdx + resLen]
