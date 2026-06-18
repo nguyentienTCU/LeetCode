@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nguyentienTCU/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/nguyentienTCU/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/nguyentienTCU/LeetCode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nguyentienTCU/LeetCode/tree/master/0724-find-pivot-index) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nguyentienTCU/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/nguyentienTCU/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0898-transpose-matrix) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nguyentienTCU/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nguyentienTCU/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nguyentienTCU/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/nguyentienTCU/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nguyentienTCU/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nguyentienTCU/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/nguyentienTCU/LeetCode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/nguyentienTCU/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/nguyentienTCU/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nguyentienTCU/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nguyentienTCU/LeetCode/tree/master/0994-rotting-oranges) |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nguyentienTCU/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nguyentienTCU/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nguyentienTCU/LeetCode/tree/master/0695-max-area-of-island) |
 ## String Matching
 |  |
 | ------- |
